@@ -6,3 +6,5 @@ seaborn
 tensorflow
 tensorflowjs
 zipfile
+os
+shutil
