@@ -53,10 +53,6 @@ The data consists of images depicting 7 types of facial expressions, taken from 
 ### 8. Results and Visualization:
    - **Visualization**: Visualize training and validation metrics (accuracy and loss) using Matplotlib to analyze model performance across epochs. This visual feedback helps in understanding how well the model learns from training data and generalizes to validation data.
 
-## Model Architecture
-
-The CNN model architecture consists of multiple convolutional layers with batch normalization, max pooling, dropout for regularization, and dense layers for classification. The model is compiled with Adam optimizer and categorical crossentropy loss function.
-
 ## Files Structure
 
 - `EmoSense.ipynb`: Jupyter notebook containing the entire project code including data preparation, model building, training, and evaluation.
